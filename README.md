@@ -4,3 +4,4 @@ https://docs.nvidia.com/networking-ethernet-software/cumulus-linux-50/Layer-3/FR
 https://www.2stacks.net/blog/getting-started-with-frr-on-eveng/ (zebra)
 https://www.packettracernetwork.com/ccna-ccnp-preparation/ccnp-frr.html(frrouting cnna)
 https://www.cloudflare.com/learning/security/glossary/what-is-bgp/ (bgp)
+https://www.auvik.com/franklyit/blog/layer-3-switches-layer-2/ (layer  2 layer 3)
