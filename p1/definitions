@@ -1,0 +1,40 @@
+# what is gns3
+
+gns3 is a tool to emulate configure 
+test and troubleshoot virtual networks 
+and virtualize real hardware 
+
+# what is bgp 
+
+is the postal service of the internet. 
+when somene drops a letter into a mailbox. the process 
+that piece of mail and chooses a fast,
+ 
+Similarly, when someone submits data via the Internet,
+BGP is responsible for looking at all of the available 
+paths that data could travel and picking the best route,
+which usually means hopping between autonomous systems.
+
+BGP is the protocol that makes the Internet work by enabling
+data routing. When a user in Singapore loads a website
+with origin servers in Argentina, BGP is the protocol 
+that enables that communication to happen quickly
+and efficiently
+
+
+# The differences between layer 2 and layer 3 in a network.
+Layer 2 of the OSI model is known as the data link layer. 
+The Layer 2 protocol you’re likely most familiar with is Ethernet. 
+Devices in an Ethernet network are identified by a MAC 
+(media access control) address, which is 
+generally hardcoded to a particular device and doesn’t 
+normally change
+
+Layer 3 is the network layer and its protocol is the Internet Protocol or IP. Devices in an IP network are identified by an IP address, which can be dynamically assigned and may change over time. Traditionally, the network device most associated with Layer 3 has been the router, which allows you to connect devices in different IP networks.
+
+#  What is a packet routing software.
+Processes packets; applies filters, routing policies, and other features; and forwards packets to the next hop along the route to their final destination.  Routing Engine—Provides three main functions: ■ Creates the packet forwarding switch fabric for the switch, providing route.
+
+# what is bgpd 
+
+bgpd is a routing daemon that works with Route Administration Manager (RAMD) for IPv6. This routing daemon is an implementation of Border Gateway Protocol (BGP) for IPv6. bgpd is invoked automatically if it is enabled in the configuration file   (bgpd is a routing component that works with the FRRouting routing engine.)
